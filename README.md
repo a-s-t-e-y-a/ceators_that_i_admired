@@ -26,3 +26,8 @@
 ## Some special 
 
 - https://www.youtube.com/@ThePrimeagen/videos
+
+
+# BLOGS
+
+- https://lefkowitz.me/
