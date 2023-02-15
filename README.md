@@ -21,7 +21,7 @@
 
 ## For linux
 
-- 
+- https://www.youtube.com/@JupiterBroadcasting/videos
 
 ## Some special 
 
