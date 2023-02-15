@@ -18,6 +18,8 @@
 ## For frontend
 
 - https://www.youtube.com/@CoderOne
+- https://www.youtube.com/@mewtru/featured
+- https://www.youtube.com/@BeJScommunity  ***
 
 ## For linux
 
