@@ -10,7 +10,7 @@
 
 
 # YOUTUBE channel
-## FOR BACKEND
+## FOR Backend
 
 - https://www.youtube.com/@Fireship
 - https://www.youtube.com/@hnasr
@@ -18,3 +18,7 @@
 ## For frontend
 
 - https://www.youtube.com/@CoderOne
+
+## For linux
+
+- https://www.youtube.com/@ThePrimeagen/videos
