@@ -12,9 +12,9 @@
 # YOUTUBE channel
 ## FOR BACKEND
 
-> https://www.youtube.com/@Fireship
-> https://www.youtube.com/@hnasr
+- https://www.youtube.com/@Fireship
+- https://www.youtube.com/@hnasr
 
 ## For frontend
 
-> https://www.youtube.com/@CoderOne
+- https://www.youtube.com/@CoderOne
