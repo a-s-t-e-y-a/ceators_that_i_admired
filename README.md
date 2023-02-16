@@ -24,6 +24,8 @@
 ## For linux
 
 - https://www.youtube.com/@JupiterBroadcasting/videos
+- https://www.youtube.com/@ChrisTitusTech/featured *** for linux coustmization
+- https://www.youtube.com/@NeonCipher/videos       *** for linux coustmization
 
 ## Some special 
 
