@@ -36,3 +36,7 @@
 # BLOGS
 
 - https://lefkowitz.me/
+
+# SOME SPECIAL MENTION
+
+- https://www.youtube.com/@Honeypotio/videos
