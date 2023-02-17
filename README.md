@@ -14,6 +14,7 @@
 
 - https://www.youtube.com/@Fireship
 - https://www.youtube.com/@hnasr
+- https://www.youtube.com/@CodingTech/videos *** very informative
 
 ## For frontend
 
