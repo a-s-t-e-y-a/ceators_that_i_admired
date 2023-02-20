@@ -29,6 +29,7 @@
 - https://www.youtube.com/@ChrisTitusTech/featured *** for linux coustmization
 - https://www.youtube.com/@NeonCipher/videos       *** for linux coustmization
 - https://www.youtube.com/@TechHut                 *** for linux coustmization
+- https://www.youtube.com/@niccoloveslinux/videos  ***i love linux is the motto
 
 ## Some special 
 
