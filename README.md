@@ -35,6 +35,7 @@
 ## Some special 
 
 - https://www.youtube.com/@ThePrimeagen/videos
+- https://www.youtube.com/@SeniorMarsTries/videos { i love this}
 
 
 # BLOGS
