@@ -45,3 +45,7 @@
 # SOME SPECIAL MENTION
 
 - https://www.youtube.com/@Honeypotio/videos
+
+# Blogs mention
+
+- https://www.permit.io/blog/netflix-authz
