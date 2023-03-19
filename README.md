@@ -32,6 +32,10 @@
 - https://www.youtube.com/@TechHut                 *** for linux coustmization
 - https://www.youtube.com/@niccoloveslinux/videos  ***i love linux is the motto
 
+## For microservices and architecture 
+
+- https://www.youtube.com/@NicJackson/videos
+
 ## Some special 
 
 - https://www.youtube.com/@ThePrimeagen/videos
