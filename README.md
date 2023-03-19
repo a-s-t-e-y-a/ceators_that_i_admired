@@ -49,3 +49,7 @@
 # Blogs mention
 
 - https://www.permit.io/blog/netflix-authz
+
+# Blogs podcast
+
+- https://www.youtube.com/@lexfridman
