@@ -49,6 +49,7 @@
 # SOME SPECIAL MENTION
 
 - https://www.youtube.com/@Honeypotio/videos
+- https://www.youtube.com/@investingat25/featured { she is awesome }
 
 # Blogs mention
 
