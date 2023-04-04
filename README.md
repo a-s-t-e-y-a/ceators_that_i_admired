@@ -47,6 +47,10 @@
 
 - https://lefkowitz.me/
 
+# ROADMAPS AND GUIDANCE
+- https://www.youtube.com/@harkirat1
+
+
 # SOME SPECIAL MENTION
 
 - https://www.youtube.com/@Honeypotio/videos
@@ -59,3 +63,4 @@
 # Blogs podcast
 
 - https://www.youtube.com/@lexfridman
+
