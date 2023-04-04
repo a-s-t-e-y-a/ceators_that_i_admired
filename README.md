@@ -36,3 +36,5 @@
 # BLOGS
 
 - https://lefkowitz.me/
+# ROADMAPS AND GUIDANCE
+- https://www.youtube.com/@harkirat1
