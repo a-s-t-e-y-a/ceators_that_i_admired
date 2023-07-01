@@ -1,14 +1,5 @@
-## WELCOME TO MY CREATORS LIST
 
-### YOU CAN AGREE WITH THIS LIST OR NOT ||| BUT YOU CAN'T IGNORE THIS
-
-### This list does not only contain list of youtube channel
-
-### It'll contain podcast , blogs and github discussion and much more
-
-### anything that make me a good developer
-
-- This list may contain creators that you already know, as well as some that you do not, so please be patient and scroll through the list. You are sure to discover many unheard-of things.
+Welcome to your Creators List! Prepare to explore a plethora of resources that can propel you towards becoming a proficient developer. Keep in mind that this list may include both familiar and unfamiliar creators. So, exercise patience while browsing through it. 
 
 # YOUTUBE channel
 
